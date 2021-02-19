@@ -98,7 +98,7 @@ body.Default .LayoutTopTop, body.Category .LayoutTopTop, body.ProductDetails .La
 .PicturePopup iframe { max-width: 100%; }
 .lblPriceLabel, .CategoryProductPriceLabel { display: none; }
 
-.PriceWhite { position: absolute; left: 10px; bottom: 10px; background: #fff; padding: 6px 10px; max-width: 93%; text-align: left; color: #000; }
+.PriceWhite { position: sticky; left: 10px; bottom: 10px; background: #fff; padding: 6px 10px; max-width: 93%; text-align: left; color: #000; }
 .PriceWhite .lblPriceArea { font-weight: 600; }
 .thumbnail { border-radius: 0; border: none; padding: 0; margin-bottom: 10px; position: relative; }
 
