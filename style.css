@@ -140,7 +140,7 @@ body.Default .LayoutTopTop, body.Category .LayoutTopTop, body.ProductDetails .La
 .thumbnail .quick-view:hover { background: #eaac1f; color: #fff; border: 1px solid #eaac1f; }
 
 .homepage-product .thumbnail img { display: inline; }
-.homepage-product .thumbnail .PriceWhite { line-height: 1.4; }
+.homepage-product .thumbnail .PriceWhite { line-height: 1; }
 
 .product-flag { width: 150px; height: 150px; display: none\9; line-height: 1.5; }
 .product-flag span { background: #222; color: #eee; text-align: center; display: block; box-shadow: 0 5px 10px 0 rgba(0,0,0,0.5); position: absolute; width: 100%; }
