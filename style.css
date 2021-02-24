@@ -46,7 +46,7 @@ body.ProductDetails .LayoutTop { padding-bottom: 0; }
 
 .navbar-default .navbar-toggle .icon-bar { background-color: #c98f1b; }
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar { background-color: #b76902; }
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background-color: #e89221; }
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background-color: #A18572; }
 
 .panel { border-radius: 2px; box-shadow: none; }
 
@@ -57,7 +57,7 @@ body.ProductDetails .LayoutTop { padding-bottom: 0; }
 
 .well { border: none; box-shadow: none; border-radius: 2px; }
 .btn { border: none; background: #eaac1f; color: #fff; }
-.btn:hover, .btn:active, .btn:focus { border: none; background: #e89221; color: #fff; }
+.btn:hover, .btn:active, .btn:focus { border: none; background: #A18572; color: #fff; }
 .btn-primary { border: none; background: #e57123; color: #fff; }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus { border: none; background: #ce531d; color: #fff; }
 .btn { border-radius: 2px; }
