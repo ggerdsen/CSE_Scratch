@@ -41,11 +41,11 @@ body.Default .LayoutTop { padding-bottom: 0; }
 body.Category .LayoutTop { padding-bottom: 0; }
 body.ProductDetails .LayoutTop { padding-bottom: 0; }
 
-.btn.layout-list { color: #b76902; }
-.btn.layout-list:hover { color: #b76902; }
+.btn.layout-list { color: #A18572; }
+.btn.layout-list:hover { color: #A18572; }
 
 .navbar-default .navbar-toggle .icon-bar { background-color: #c98f1b; }
-.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar { background-color: #b76902; }
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar { background-color: #A18572; }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background-color: #A18572; }
 
 .panel { border-radius: 2px; box-shadow: none; }
