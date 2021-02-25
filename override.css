@@ -1,4 +1,4 @@
-@font-face {
+fff@font-face {
   font-family: 'Proxima Nova';
   src: url('../fonts/proximanovareg-webfont.eot');
   src: url('../fonts/proximanovareg-webfont.eot?#iefix') format('embedded-opentype'),
@@ -41,7 +41,7 @@ body.Default,
 }
 body {
   font-family: 'Proxima Nova';
-  color: #666666;
+  color: #fff;
 }
 .ac-widget-controls.design-mode {
   margin-top: 0 !important;
