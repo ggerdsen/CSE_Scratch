@@ -7,7 +7,7 @@ input[type=radio] + label, input[type=checkbox] + label { display: inline-block;
 h2, h3 { font-size: 36px; text-transform: uppercase; }
 h4, h5 { font-size: 24px; }
 h1 { font-transform: uppercase; }
-a { font-size: 11px; font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; color: #A08571; }
+a { font-size: 15px; font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; color: #A08571; }
 a:hover, a:active, a:focus { color: #ce531d; text-decoration: none; }
 button[disabled], html input[disabled] { background: rgb(235, 235, 228); }
 .col-xs-6:nth-of-type(2n), .col-sm-6:nth-of-type(2n) { margin-bottom: 30px; }
