@@ -56,8 +56,8 @@ body.ProductDetails .LayoutTop { padding-bottom: 0; }
 .CategoryChildCategoryHeader { padding-bottom: 8px; }
 
 .well { border: none; box-shadow: none; border-radius: 2px; }
-.btn { border: none; background: #fff; color: #fff; }
-.btn:hover, .btn:active, .btn:focus { border: none; background: #A18572; color: #fff; }
+.btn { border: none; background: #A18572; color: #fff; }
+.btn:hover, .btn:active, .btn:focus { border: none; background: #564F43; color: #fff; }
 .btn-primary { border: none; background: #A18572; color: #fff; }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus { border: none; background: #ce531d; color: #fff; }
 .btn { border-radius: 2px; }
